@@ -1,1 +1,1 @@
-# dice-game-frontend
+## React Solana WalletConnect Boilerplate
